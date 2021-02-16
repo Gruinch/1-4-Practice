@@ -29,7 +29,13 @@
   background-color: limegreen;
 }
 
-.sidebar {
+.sidebar-left {
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
+}
+
+.sidebar-right {
   width: 230px;
   height: 1400px;
   background-color: palegreen;
